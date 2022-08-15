@@ -1,3 +1,4 @@
 # Java
 Excited to Learn java!
-This is created while learning Data Structures and Algorithm. 
+This repo is  created while learning Data Structures and Algorithm. 
+If any error which there are many is think let me know.
